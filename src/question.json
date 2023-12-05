@@ -1,0 +1,82 @@
+[
+    {
+        "text": "Kendi görünüşünüzle genellikle ne kadar memnunsunuz?",
+        "options": [
+            {"id": 0, "text": "asla", "isCorrect": false},
+            {"id": 1, "text": "nadiren", "isCorrect": false},
+            {"id": 2, "text": "sıklıkla", "isCorrect": true}
+        ]
+    },
+    {
+        "text": "Yeni insanlarla tanışırken kendinizi rahat hissediyor musunuz?",
+        "options": [
+            {"id": 0, "text": "asla", "isCorrect": false},
+            {"id": 1, "text": "nadiren", "isCorrect": false},
+            {"id": 2, "text": "sıklıkla", "isCorrect": true}
+        ]
+    },
+    {
+        "text": "Yaptığınız işlerde başkalarının sizi takdir etmesini ne kadar önemsiyorsunuz?",
+        "options": [
+            {"id": 0, "text": "asla", "isCorrect": false},
+            {"id": 1, "text": "nadiren", "isCorrect": false},
+            {"id": 2, "text": "sıklıkla", "isCorrect": true}
+        ]
+    },
+    {
+        "text": "Hata yaptığınızda kendinizi nasıl hissedersiniz?",
+        "options": [
+            {"id": 0, "text": "asla", "isCorrect": false},
+            {"id": 1, "text": "nadiren", "isCorrect": false},
+            {"id": 2, "text": "sıklıkla", "isCorrect": true}
+        ]
+    },
+    {
+        "text": "Yeni bir beceri veya konu öğrenirken ne kadar kendinize güveniyorsunuz?",
+        "options": [
+            {"id": 0, "text": "asla", "isCorrect": false},
+            {"id": 1, "text": "nadiren", "isCorrect": false},
+            {"id": 2, "text": "sıklıkla", "isCorrect": true}
+        ]
+    },
+    {
+        "text": "Sosyal etkileşimlerde genellikle konuşkan ve aktif bir rol üstlenir misiniz?",
+        "options": [
+            {"id": 0, "text": "asla", "isCorrect": false},
+            {"id": 1, "text": "nadiren", "isCorrect": false},
+            {"id": 2, "text": "sıklıkla", "isCorrect": true}
+        ]
+    },
+    {
+        "text": "Zorlu durumlarla karşılaştığınızda, genellikle nasıl tepki verirsiniz?",
+        "options": [
+            {"id": 0, "text": "asla", "isCorrect": false},
+            {"id": 1, "text": "nadiren", "isCorrect": false},
+            {"id": 2, "text": "sıklıkla", "isCorrect": true}
+        ]
+    },
+    {
+        "text": "Bir hedefe ulaşmak için belirlediğiniz plana ne kadar bağlı kalırsınız?",
+        "options": [
+            {"id": 0, "text": "asla", "isCorrect": false},
+            {"id": 1, "text": "nadiren", "isCorrect": false},
+            {"id": 2, "text": "sıklıkla", "isCorrect": true}
+        ]
+    },
+    {
+        "text": "Karar verme süreçlerinizde genellikle ne kadar kararlısınız?",
+        "options": [
+            {"id": 0, "text": "asla", "isCorrect": false},
+            {"id": 1, "text": "nadiren", "isCorrect": false},
+            {"id": 2, "text": "sıklıkla", "isCorrect": true}
+        ]
+    },
+    {
+        "text": "Başkalarının eleştirilerine karşı genellikle nasıl tepki verirsiniz?",
+        "options": [
+            {"id": 0, "text": "asla", "isCorrect": false},
+            {"id": 1, "text": "nadiren", "isCorrect": false},
+            {"id": 2, "text": "sıklıkla", "isCorrect": true}
+        ]
+    }
+]
